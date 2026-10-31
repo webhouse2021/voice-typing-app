@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">বাংলা ভয়েস টাইপিং</string>
+    <string name="app_name_en">Bengali Voice Typing</string>
+    <string name="tap_to_speak">কথা বলতে মাইক্রোফোনে ট্যাপ করুন</string>
+    <string name="listening_speak">শুনছি... এখন বাংলায় কথা বলুন</string>
+    <string name="copy_to_clipboard">কপি করুন</string>
+    <string name="copied_toast">ক্লিপবোর্ডে কপি করা হয়েছে!</string>
+    <string name="clear">মুছুন</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="permission_required">ভয়েস টাইপিংয়ের জন্য মাইক্রোফোন ব্যবহারের অনুমতি প্রয়োজন।</string>
+    <string name="locale_bd">বাংলাদেশ (bn-BD)</string>
+    <string name="locale_in">ভারত (bn-IN)</string>
+</resources>
